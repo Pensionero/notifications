@@ -127,6 +127,11 @@ class SiteController extends Controller
     {
         return $this->render('discussions');
     }
+
+    public function actionView()
+    {
+        return $this->render('view');
+    }
 /*
     public function actionAddAdmin() {
         $model = User::find()->where(['username' => 'admin'])->one();

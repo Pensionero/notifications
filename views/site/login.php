@@ -38,24 +38,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <?php ActiveForm::end(); ?>
 
-    <div class="jumbotron text-center bg-transparent">
-        <h6 class="display-6">
-        <p> Пользователь:  admin</p>    
-         <p>Пароль: admin</p> 
-        </h6><br><br><br>
-        <h6 class="display-6">
-        <p> Пользователь:  вася</p>    
-         <p>Пароль: вася</p> 
-        </h6><br><br><br>
-        <h6 class="display-6">
-        <p> Пользователь:  миша</p>    
-         <p>Пароль: миша</p> 
-        </h6><br><br><br>
-        <h6 class="display-6">
-        <p> Пользователь:  петя</p>    
-         <p>Пароль: петя</p> 
-        </h6><br><br><br>
-    </div>
+    
     
     
 
